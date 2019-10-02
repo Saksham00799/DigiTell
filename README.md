@@ -12,3 +12,7 @@ You can Run perform Recognition scanned if you have scanned images with digits w
 sample_1.jpg or sample_2.jpg for scanning.
 
 This Repository uses the MNIST dataset of handwritten digits and then tries to train an optimized model that should be fast enough to work in realtime even on low computational devices with a high accuracy rate.
+
+![](https://raw.githubusercontent.com/dilpreet1998/DigiTell/master/result_1.jpg)
+
+![](https://raw.githubusercontent.com/dilpreet1998/DigiTell/master/result_2.jpg)
